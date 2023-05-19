@@ -1,1 +1,1 @@
-# Minijuegos C++
+# Minijuegos en C++
